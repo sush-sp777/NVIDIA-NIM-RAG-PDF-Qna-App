@@ -6,9 +6,12 @@ Users can upload multiple PDF documents, generate embeddings using NVIDIA Embedd
 ---
 ## Live APP
 
-You can use deployed version here:
+- You can use deployed version here:
+
 **[Live App](https://nvidia-nim-rag-pdf-qna-app-jsfcyx5rv5oyagirkrnjqz.streamlit.app/)**
+
 ---
+
 ## 🚀 Features
 
 - 🔐 User enters their own NVIDIA API Key (secure, no key stored in repository)
