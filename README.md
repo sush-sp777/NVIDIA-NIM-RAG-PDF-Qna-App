@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) application built using NVIDIA NIM, LangC
 Users can upload multiple PDF documents, generate embeddings using NVIDIA Embeddings, and ask questions based only on the document content.
 
 ---
-## Live APP
+## Live App
 
 - You can use deployed version here:
 
